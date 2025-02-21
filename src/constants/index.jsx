@@ -15,30 +15,50 @@ export const navItems = [
 
 export const testimonials = [
   {
-    user: "Pizza Plaza",
-    
-    text: "⭐⭐⭐⭐⭐ Depuis que nous utilisons cette plateforme, la gestion de nos réservations et de nos commandes en ligne a été grandement simplifiée. Le tableau de bord est très intuitif et nous permet de suivre les ventes, les stocks et même l'occupation des tables en temps réel. Un vrai gain de temps pour notre équipe !",
+    user: "Jean Tine",
+
+    text: "⭐⭐⭐⭐⭐ En tant que revendeur, cette clé de licence m’a permis de proposer à mes clients un site web de restauration clé en main, facile à installer et à personnaliser. !",
   },
   {
-    user: "Fast-Food Yoff",
-    
-    text: "⭐⭐⭐⭐ Excellente solution pour notre fast-food. L'intégration avec les services de livraison nous a permis d'augmenter nos ventes en ligne tout en gardant un contrôle total sur notre inventaire. La gestion des commandes est ultra-rapide et l'interface est très facile à prendre en main.",
+    user: "Mouhamed Camara",
+
+    text: "⭐⭐⭐⭐ La clé de licence a transformé mon offre pour mes clients restaurateurs. C’est une solution rapide et professionnelle que je peux recommander sans hésiter.",
   },
-  
+
   {
-    user: "Restaurant du coin",
-   
-    text: "⭐⭐⭐⭐ Cette plateforme a transformé la manière dont nous gérons notre franchise. Chaque restaurant a sa propre configuration, mais nous pouvons centraliser toutes les opérations depuis un même endroit. Les outils de reporting nous permettent de suivre les performances de chaque établissement en détail, ce qui est un énorme avantage pour la gestion à grande échelle.",
-  },
-  {
-    user: "Restaurant Ndeye",
-    
-    text: "⭐⭐⭐⭐ Nous avons été agréablement surpris par la simplicité d'utilisation de la plateforme. La gestion des stocks et des fournisseurs est bien pensée, et nous avons réduit les erreurs liées aux ruptures de stock. Seul petit bémol : l'intégration avec notre ancien système de caisse n’a pas été parfaite au début, mais le support technique a été réactif et a résolu le problème rapidement.",
+    user: "Emmanuel Ndiaye",
+
+    text: "⭐⭐⭐⭐ J'ai acheté plusieurs clés de licence pour mes clients restaurateurs, et tout le monde est ravi. Le site est intuitif, et l'outil de gestion facile à utiliser pour les propriétaires.",
   },
   {
-    user: "YAYE FATOU resto",
-    
-    text: "⭐⭐⭐⭐⭐ Le service client est exceptionnel ! J'ai eu quelques questions au départ, mais l'équipe de support a été extrêmement disponible et m'a guidé à travers toutes les étapes. La gestion des réservations et des menus a été un jeu d'enfant et nos clients adorent l'option de commande en ligne.",
+    user: "Ali Cissokho",
+
+    text: "⭐⭐⭐⭐ En tant que revendeur, j'ai pu offrir à mes clients un site web de restauration moderne et performant grâce à cette clé de licence. Un investissement rentable à long terme.",
+  },
+  {
+    user: "Aziz Hounkponou",
+
+    text: "⭐⭐⭐⭐⭐ Avec cette clé de licence, j'ai pu offrir à mes clients une solution web complète et fiable. Ils sont impressionnés par la qualité et la simplicité d’utilisation.",
+  },
+  {
+    user: "Adama Cisse",
+
+    text: "⭐⭐⭐⭐⭐ Proposer des sites web de restauration n'a jamais été aussi facile. La clé de licence m’a permis de créer des sites modernes et performants pour mes clients en un rien de temps.",
+  },
+  {
+    user: "Ebata Bien-Aime",
+
+    text: "⭐⭐⭐⭐⭐ Grâce à cette clé de licence, je peux garantir à mes clients une solution clé en main pour leur restaurant, avec un design moderne et un système de gestion simple à prendre en main.",
+  },
+  {
+    user: "Victor Sene",
+
+    text: "⭐⭐⭐⭐⭐Cette clé de licence est devenue un outil indispensable dans mon offre de services aux restaurateurs. Mes clients adorent la facilité de gestion du site et la qualité de l'interface.",
+  },
+  {
+    user: "Emilie Samb",
+
+    text: "⭐⭐⭐⭐ Je recommande vivement cette clé de licence pour tous les revendeurs dans la restauration. Elle permet de créer des sites professionnels, modernes et faciles à gérer pour les propriétaires de restaurants.",
   },
 ];
 
@@ -115,14 +135,11 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
-    title: "Abonnement",
+    title: "Acheter la Licence Maintenant ",
     
-    features: ["installation", "formation", "maintenance", "mis a jour"],
+    features: ["Communautes whatsapp", "Assistance configuration", "Licence illimitee", "mis a jour"],
   },
-  {
-    title: "Achat direct",
-    features: ["installation", "formation", "maintenance", "mis a jour"],
-  },
+  
   
 ];
 

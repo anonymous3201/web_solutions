@@ -13,30 +13,33 @@ const HeroSection = () => {
         WEB SOLUTIONS
         <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
           {" "}
-          La solution web clé en main pour vos restaurants !
+          Creer votre propre site de restauration moderne sans techniques requises et proposez aux restaurants !
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Chez WEB SOLUTIONS, nous mettons à votre disposition des applications
-        web prêtes à l’emploi, conçues pour faciliter la gestion de votre
-        restaurant, qu’il s’agisse d’un fast-food, d’un restaurant gastronomique
-        ou d’une franchise. Nos solutions permettent une gestion fluide des
-        commandes, des réservations, des stocks et bien plus, tout en offrant
-        une expérience utilisateur optimale pour vos clients et vos équipes.
+        Imaginez un monde où vous êtes le leader d'une révolution technologique,
+        aidant les restaurants à optimiser leurs services et à augmenter leurs
+        profits. Avec notre solution clé en main, vous pouvez transformer chaque
+        défi en opportunité et chaque restaurant en une machine à succès.
       </p>
       <div className="flex justify-center my-10">
         <a
           href="https://6f16cdf0-c3da-469e-8ca4-285896c6ae5d.netlify.app/"
           className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
         >
-          Decouvrir le site du restaurant
+          Decouvrir le site
+        </a>
+        <a
+          href="https://drive.google.com/file/d/1lOADjkVdn0Jqzb6OUt8lxoZAIZbpsRjh/view?usp=sharing"
+          className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
+        >
+          Demo et configuration
         </a>
       </div>
       <div className="flex mt-10 justify-center">
         <video
           autoPlay
           loop
-          muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4"
         >
           <source src={video1} type="video/mp4" />
@@ -45,13 +48,21 @@ const HeroSection = () => {
         <video
           autoPlay
           loop
-          muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4"
         >
           <source src={video2} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
+      <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
+        En investissant seulement 45 000 francs CFA, vous avez accès à une
+        licence exclusive qui vous permettra de proposer des sites web
+        performants pour la gestion des commandes en ligne. Aucune compétence
+        technique n’est requise, juste votre motivation et votre
+        désir de réussir. Cette licence vous offre la possibilité de vendre des
+        sites web personnalisés pour les restaurants, sans aucun développement
+        technique nécessaire, tout en générant des revenus immédiatement
+      </p>
       <div className="flex mt-10 justify-center">
         <img
           src={code1}
@@ -62,8 +73,6 @@ const HeroSection = () => {
           className="rounded-lg w-1/2 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4"
         />
       </div>
-      
-      
     </div>
   );
 };
